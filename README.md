@@ -1,1 +1,2 @@
 # Gawai_Dayak_Event_Scheduling_Graph_Coloring
+[gawai_dayak_conflicts_and_fit_report.pdf](https://github.com/jackGetDev/Gawai_Dayak_Event_Scheduling_Graph_Coloring/files/12339710/gawai_dayak_conflicts_and_fit_report.pdf)
